@@ -1,3 +1,5 @@
+產品與購物車頁面網址 : https://echocarriet.github.io/vueproject1130/#/user
+---
 # vue-project
 
 ## Project setup
